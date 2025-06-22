@@ -1,4 +1,4 @@
-# Design-Smart-Environmental-Control-System
+# Design-Smart-Environmental-Control-System using Simulide , arduino ide
 /*
   1. Temperature Monitoring & Fan Control
      - Read temperature using a thermistor.
